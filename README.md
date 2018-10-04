@@ -1,2 +1,2 @@
-# TQS_DateComparator
+# TQS_ExercicisClasse
 Exercicis de Classe
